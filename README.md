@@ -1,19 +1,18 @@
 ## Hola muy buenas 👋
 
 
-**Abraham-13M/Abraham-13M** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Me llamo Abraham Galdón Fernández, soy tecnico superior en telecomunicaciones y mi maxima aficion y sueño es poder ser un creador de videojuegos profesional.
 
-Here are some ideas to get you started:
+Muchos de mis hobbies favoritos:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...  anuraghazra
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Hacer deporte 🏋️‍♂️
+- Salir con amigos 
+- Jugar a videojuegos 🎮🕹️
+- Dormir 😴
+- Realizar mods de videojuegos 
+- Dormir, otra vez 😂(Me encanta dormir), ojo, jugar a videojuegos tambien me encanta, eh.
+- Estudiar ingles 🎓
+
 [![Abraham-13M](https://github-readme-stats.vercel.app/api?username=Abraham-13M)](https://github.com/Abraham-13M/github-readme-stats&locale=es)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Abraham-13M)](https://github.com/Abraham-13M/github-readme-stats&locale=es)
